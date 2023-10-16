@@ -32,8 +32,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 # ALLOWED_HOSTS = ['myfirstdjangoblog-39ef70454af0.herokuapp.com']
-# ALLOWED_HOSTS = ['8000-f-clement-firstdjangoblo-j1vfb32wfj.us2.codeanyapp.com']
-ALLOWED_HOSTS = ['myfirstdjangoblog.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-f-clement-firstdjangoblo-j1vfb32wfj.us2.codeanyapp.com']
+# ALLOWED_HOSTS = ['myfirstdjangoblog.herokuapp.com', 'localhost']
 
 
 # Application definition
